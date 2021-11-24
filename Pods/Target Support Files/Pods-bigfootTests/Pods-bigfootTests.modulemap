@@ -1,0 +1,6 @@
+framework module Pods_bigfootTests {
+  umbrella header "Pods-bigfootTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
